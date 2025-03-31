@@ -1,7 +1,7 @@
 # DA-Project
 In this project, I performed comprehensive data analysis to derive meaningful insights that help in decision-making processes. The key components of the analysis include:
 
-Change-over-time analysis: I analyzed how various metrics evolved over a specific period, identifying trends and patterns in the data.
+Change-over-time analysis: I analysed how various metrics evolved over a specific period, identifying trends and patterns in the data.
 
 Cumulative analysis: I performed cumulative analysis to assess the total impact or growth over time, highlighting long-term progress and trends.
 
